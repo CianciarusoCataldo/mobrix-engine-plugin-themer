@@ -1,31 +1,10 @@
 # MoBrix-engine-plugin-themer
 
-![NPM](https://img.shields.io/npm/l/mobrix-engine-plugin-themer?label=License&style=for-the-badge)
-![npm](https://img.shields.io/npm/v/mobrix-engine-plugin-themer?color=orange%20&label=Latest%20version&style=for-the-badge&logo=npm)
-![npm bundle size](https://img.shields.io/bundlephobia/min/mobrix-engine-plugin-themer?label=Package%20size&style=for-the-badge)
-![Maintenance](https://img.shields.io/maintenance/yes/2025?label=Maintained&style=for-the-badge)
-
 ---
 
 <br>
 
 Enhance [MoBrix-engine](https://github.com/CianciarusoCataldo/mobrix-engine) with a custom theme compatible with [MoBrix-ui lib](https://github.com/CianciarusoCataldo/mobrix-ui)
-
-<br>
-
----
-
-## Summary
-
-- [Getting started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [API](#api)
-  - [Config](#config)
-- [Integration with other plugins](#integration-with-other-plugins)
-- [Included libraries](#included-libraries)
-- [Authors](#authors)
-- [License](#license)
 
 <br>
 

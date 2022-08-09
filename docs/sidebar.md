@@ -1,0 +1,10 @@
+- [Documentation](guide "MoBrix-engine-plugin-themer - documentation")
+- [Changelog](changelog "MoBrix-engine-plugin-themer - changelog")
+- **Links**
+- [Github](https://github.com/cianciarusocataldo/mobrix-engine-plugin-themer)
+- [NPM](https://www.npmjs.com/package/mobrix-engine-plugin-themer)
+- **MoBrix ecosystem**
+- [MoBrix-engine](https://github.com/cianciarusocataldo/mobrix-engine)
+- [MoBrix-ui](https://github.com/cianciarusocataldo/mobrix-ui)
+- [MoBrix-designer](https://github.com/cianciarusocataldo/mobrix-designer)
+- [MoBrix-engine-plugins](https://github.com/cianciarusocataldo/mobrix-engine-plugins)
