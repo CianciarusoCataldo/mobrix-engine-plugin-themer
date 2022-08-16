@@ -52,7 +52,7 @@ import { createMoBrixEnginePlugin } from "mobrix-engine-tools";
  * @see https://cianciarusocataldo.github.io/mobrix-engine/docs
  *
  */
-const themerPlugin: ThemerPlugin = createMoBrixEnginePlugin("themer", () => ({
+const themerPlugin: ThemerPlugin = createMoBrixEnginePlugin("mobrix-engine-themer", () => ({
   field: (config) => {
     const theme = applyTheme(config.theme);
 
@@ -64,7 +64,7 @@ const themerPlugin: ThemerPlugin = createMoBrixEnginePlugin("themer", () => ({
 
   interactions: [
     {
-      plugin: "ui",
+      plugin: "mobrix-engine-ui",
       effect: (uiConfig) => {
         const darkMode = uiConfig.darkMode || false;
         setBodyClass(darkMode);

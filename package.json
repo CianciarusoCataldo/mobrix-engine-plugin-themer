@@ -1,6 +1,6 @@
 {
   "name": "mobrix-engine-plugin-themer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A theme manager for the MoBrix-engine system, compatible with Mobrix-ui",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
